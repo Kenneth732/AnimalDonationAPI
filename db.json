@@ -1,0 +1,22 @@
+{
+  "animalsData": [
+    {
+      "name": "Lion",
+      "imageUrl": "https://images.pexels.com/photos/247502/pexels-photo-247502.jpeg?cs=srgb&dl=pexels-pixabay-247502.jpg&fm=jpg",
+      "description": "Dean is the orner of this website",
+      "donations": 0
+    },
+    {
+      "name": "Squero",
+      "imageUrl": "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?cs=srgb&dl=pexels-pixabay-47547.jpg&fm=jpg",
+      "description": "Kent is the orner of this website",
+      "donations": 0
+    },
+    {
+      "name": "Deer",
+      "imageUrl": "https://images.unsplash.com/photo-1484406566174-9da000fda645?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
+      "description": "Dean is the orner of this website",
+      "donations": 0
+    }
+  ]
+}
